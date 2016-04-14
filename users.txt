@@ -1,0 +1,121 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+www-data   884  0.0  0.1  90756  1840 ?        S    15:34   0:00 nginx: worker process                           
+www-data  1319  0.0  0.5 294648  5104 ?        S    15:34   0:00 php-fpm: pool www                                                       
+www-data  1320  0.0  0.5 294648  5104 ?        S    15:34   0:00 php-fpm: pool www                                                       
+user      1803  0.0  0.2 109796  2076 ?        S    15:37   0:00 sshd: user@pts/3    
+user      1804  0.0  0.4  21708  4144 pts/3    Ss   15:37   0:00 -bash
+syslog     901  0.0  0.3 262132  3476 ?        Ssl  15:34   0:00 rsyslogd
+root         1  0.1  0.3  33772  3168 ?        Ss   15:34   0:01 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    15:34   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    15:34   0:00 [ksoftirqd/0]
+root         4  0.0  0.0      0     0 ?        S    15:34   0:00 [kworker/0:0]
+root         5  0.0  0.0      0     0 ?        S<   15:34   0:00 [kworker/0:0H]
+root         6  0.0  0.0      0     0 ?        S    15:34   0:00 [kworker/u30:0]
+root         7  0.0  0.0      0     0 ?        S    15:34   0:00 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuos/0]
+root         9  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuos/1]
+root        10  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuos/2]
+root        11  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuos/3]
+root        12  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuos/4]
+root        13  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuos/5]
+root        14  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuos/6]
+root        15  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuos/7]
+root        16  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuos/8]
+root        17  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuos/9]
+root        18  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuos/10]
+root        19  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuos/11]
+root        20  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuos/12]
+root        21  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuos/13]
+root        22  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuos/14]
+root        23  0.0  0.0      0     0 ?        S    15:34   0:00 [rcu_bh]
+root        24  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuob/0]
+root        25  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuob/1]
+root        26  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuob/2]
+root        27  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuob/3]
+root        28  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuob/4]
+root        29  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuob/5]
+root        30  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuob/6]
+root        31  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuob/7]
+root        32  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuob/8]
+root        33  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuob/9]
+root        34  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuob/10]
+root        35  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuob/11]
+root        36  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuob/12]
+root        37  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuob/13]
+root        38  0.0  0.0      0     0 ?        S    15:34   0:00 [rcuob/14]
+root        39  0.0  0.0      0     0 ?        S    15:34   0:00 [migration/0]
+root        40  0.0  0.0      0     0 ?        S    15:34   0:00 [watchdog/0]
+root        41  0.0  0.0      0     0 ?        S<   15:34   0:00 [khelper]
+root        42  0.0  0.0      0     0 ?        S    15:34   0:00 [kdevtmpfs]
+root        43  0.0  0.0      0     0 ?        S<   15:34   0:00 [netns]
+root        44  0.0  0.0      0     0 ?        S    15:34   0:00 [xenwatch]
+root        45  0.0  0.0      0     0 ?        S    15:34   0:00 [xenbus]
+root        46  0.0  0.0      0     0 ?        S    15:34   0:00 [kworker/0:1]
+root        47  0.0  0.0      0     0 ?        S<   15:34   0:00 [writeback]
+root        48  0.0  0.0      0     0 ?        S<   15:34   0:00 [kintegrityd]
+root        49  0.0  0.0      0     0 ?        S<   15:34   0:00 [bioset]
+root        50  0.0  0.0      0     0 ?        S<   15:34   0:00 [kworker/u31:0]
+root        51  0.0  0.0      0     0 ?        S<   15:34   0:00 [kblockd]
+root        52  0.0  0.0      0     0 ?        S<   15:34   0:00 [ata_sff]
+root        53  0.0  0.0      0     0 ?        S    15:34   0:00 [khubd]
+root        54  0.0  0.0      0     0 ?        S<   15:34   0:00 [md]
+root        55  0.0  0.0      0     0 ?        S<   15:34   0:00 [devfreq_wq]
+root        57  0.0  0.0      0     0 ?        S    15:34   0:00 [khungtaskd]
+root        58  0.0  0.0      0     0 ?        S    15:34   0:00 [kswapd0]
+root        59  0.0  0.0      0     0 ?        SN   15:34   0:00 [ksmd]
+root        60  0.0  0.0      0     0 ?        SN   15:34   0:00 [khugepaged]
+root        61  0.0  0.0      0     0 ?        S    15:34   0:00 [fsnotify_mark]
+root        62  0.0  0.0      0     0 ?        S    15:34   0:00 [ecryptfs-kthrea]
+root        63  0.0  0.0      0     0 ?        S<   15:34   0:00 [crypto]
+root        75  0.0  0.0      0     0 ?        S<   15:34   0:00 [kthrotld]
+root        76  0.0  0.0      0     0 ?        S    15:34   0:00 [kworker/u30:1]
+root        77  0.0  0.0      0     0 ?        S    15:34   0:00 [scsi_eh_0]
+root        78  0.0  0.0      0     0 ?        S    15:34   0:00 [scsi_eh_1]
+root        99  0.0  0.0      0     0 ?        S<   15:34   0:00 [deferwq]
+root       100  0.0  0.0      0     0 ?        S<   15:34   0:00 [charger_manager]
+root       142  0.0  0.0      0     0 ?        S<   15:34   0:00 [kpsmoused]
+root       187  0.1  0.0  20132  1016 ?        S    15:34   0:01 @sbin/plymouthd --mode=boot --attach-to-session --pid-file=/run/initramfs/plymouth.pid
+root       209  0.0  0.0      0     0 ?        S    15:34   0:00 [jbd2/xvda1-8]
+root       210  0.0  0.0      0     0 ?        S<   15:34   0:00 [ext4-rsv-conver]
+root       235  0.0  0.1  19684  1448 ?        Ss   15:34   0:00 plymouth-upstart-bridge
+root       462  0.0  0.0  19472   656 ?        S    15:34   0:00 upstart-udev-bridge --daemon
+root       467  0.0  0.1  50268  1996 ?        Ss   15:34   0:00 /lib/systemd/systemd-udevd --daemon
+root       635  0.0  0.0  15388   628 ?        S    15:34   0:00 upstart-socket-bridge --daemon
+root       660  0.0  0.2  10220  2412 ?        Ss   15:34   0:00 dhclient -1 -v -pf /run/dhclient.eth0.pid -lf /var/lib/dhcp/dhclient.eth0.leases eth0
+root       848  0.0  0.1  90428  1212 ?        Ss   15:34   0:00 nginx: master process /usr/sbin/nginx -g daemon on; master_process on;
+root       875  0.0  0.4 334440  4392 ?        Ssl  15:34   0:00 /usr/sbin/ModemManager
+root       905  0.0  0.1  43448  1812 ?        Ss   15:34   0:00 /lib/systemd/systemd-logind
+root       923  0.0  0.6 344364  6704 ?        Ssl  15:34   0:00 NetworkManager
+root       942  0.0  0.3 279756  3424 ?        Sl   15:34   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root      1041  0.0  0.0  15404   724 ?        S    15:34   0:00 upstart-file-bridge --daemon
+root      1166  0.0  0.0  14536   960 tty4     Ss+  15:34   0:00 /sbin/getty -8 38400 tty4
+root      1171  0.0  0.0  14536   964 tty5     Ss+  15:34   0:00 /sbin/getty -8 38400 tty5
+root      1181  0.0  0.0  14536   964 tty2     Ss+  15:34   0:00 /sbin/getty -8 38400 tty2
+root      1182  0.0  0.0  14536   956 tty3     Ss+  15:34   0:00 /sbin/getty -8 38400 tty3
+root      1184  0.0  0.0  14536   968 tty6     Ss+  15:34   0:00 /sbin/getty -8 38400 tty6
+root      1233  0.0  0.2  61376  3044 ?        Ss   15:34   0:00 /usr/sbin/sshd -D
+root      1236  0.0  0.0   4364   656 ?        Ss   15:34   0:00 acpid -c /etc/acpi/events -s /var/run/acpid.socket
+root      1237  0.0  0.1  23652  1020 ?        Ss   15:34   0:00 cron
+root      1282  0.0  1.5 294648 15644 ?        Ss   15:34   0:00 php-fpm: master process (/etc/php5/fpm/php-fpm.conf)                    
+root      1371  0.0  0.3  75356  3400 ?        Ss   15:34   0:00 /usr/sbin/cups-browsed
+root      1547  0.0  0.7  35256  7420 ?        Ssl  15:34   0:00 /usr/local/bin/redis-server *:6379              
+root      1670  0.0  0.0  14536   952 tty1     Ss+  15:34   0:00 /sbin/getty -8 38400 tty1
+root      1671  0.0  0.0  12784   872 ttyS0    Ss+  15:34   0:00 /sbin/getty -8 38400 ttyS0
+root      1735  0.0  0.3  76852  3684 ?        Ss   15:35   0:00 /usr/sbin/cupsd -f
+root      1742  0.0  0.4 109796  4268 ?        Ss   15:36   0:00 sshd: user [priv]   
+root      1744  0.0  0.0      0     0 ?        S    15:36   0:00 [kauditd]
+root      1820  0.0  0.1  65340  1864 pts/3    S    15:37   0:00 su -
+root      1821  0.0  0.5  22616  5216 pts/3    S    15:37   0:00 -su
+root      1951  0.0  0.1  11120  1176 pts/3    S+   15:49   0:00 /bin/bash ./proc_count.sh
+root      1952  0.0  0.1  17324  1428 pts/3    R+   15:49   0:00 ps aux --sort -user
+redis     1542  0.0  0.7  36992  7304 ?        Ssl  15:34   0:00 /usr/bin/redis-server 0.0.0.0:6379         
+postgres  1461  0.0  1.5 246504 16176 ?        S    15:34   0:00 /usr/lib/postgresql/9.3/bin/postgres -D /var/lib/postgresql/9.3/main -c config_file=/etc/postgresql/9.3/main/postgresql.conf
+postgres  1497  0.0  0.1 246504  1876 ?        Ss   15:34   0:00 postgres: checkpointer process                                                                                              
+postgres  1498  0.0  0.2 246504  2672 ?        Ss   15:34   0:00 postgres: writer process                                                                                                    
+postgres  1499  0.0  0.1 246504  1660 ?        Ss   15:34   0:00 postgres: wal writer process                                                                                                
+postgres  1500  0.0  0.2 247364  3012 ?        Ss   15:34   0:00 postgres: autovacuum launcher process                                                                                       
+postgres  1501  0.0  0.1 102180  1772 ?        Ss   15:34   0:00 postgres: stats collector process                                                                                           
+message+   834  0.0  0.1  39376  1444 ?        Ss   15:34   0:00 dbus-daemon --system --fork
+daemon    1238  0.0  0.0  19136   160 ?        Ss   15:34   0:00 atd
+avahi      952  0.0  0.1  32348  1636 ?        S    15:34   0:00 avahi-daemon: running [ip-172-31-127-114.local]
+avahi      953  0.0  0.0  32220   468 ?        S    15:34   0:00 avahi-daemon: chroot helper
